@@ -1,0 +1,45 @@
+
+Aula prática
+
+Introdução ao HTML5 e CSS3 utilizando framework Bootstrap
+Prof Rafael GAlleani
+Lider tecnico na global hit
+
+
+
+Objetivo da aula
+
+1- Aprofundar mais em HTML5
+2- Aprender a utilizar o framework Bootstrap
+3- Construir um site utilizando HTML5, CSS3 e Bootstrap
+
+Requisitos Básicos
+
+1- Windows, Linux, OSX
+2- Editor de texto
+3- Github
+4- Ter feito a aula de HTML5 e CSS3
+5- Vontade de aprende
+
+
+Bootstrap
+Se trata de um framework para desenvolvimento de sites resposnivos
+Possui uma vasta biblioteca de componentes que facilita agiliza o desenvolvimento de página web
+É um dos frameworks mais conhecidos e utilizados para desenvolvimento front-end
+
+Antes de qualquer coisa entrar no site do GitHub e criar um repositórios para a aula de bootstrap. 
+Criar o readme.md
+Realizar o clone do repositorio para a maquina local.
+Abrir o VSCode e abrir a pasta da aula_boorstrap
+
+
+
+Acessar o site do bootstrap
+Realizar o download
+
+* O bootstrap divide em 12 colunas
+
+
+Apos realizar o download fiz um commit e um push para que as mudanças sejam enviada para o repositorio. 
+
+
