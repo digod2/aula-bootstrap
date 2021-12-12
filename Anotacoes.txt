@@ -53,3 +53,12 @@ SIte para pegar cor
 HTML color codes
 https://htmlcolorcodes.com/
 
+
+
+Foi aprendido de como adicionar o bootstrap a página com o intuito de transformá-la em uma página responsiva.
+
+Foi utilizado como padrão a divisão do bootstrap com containers linhas e colunas.
+class="container"
+class="row"
+class="col-lg-4"
+*O bootstrap é dividido em 12 colunas, no exemplo foi utilizado a divisão por 3 então é utilizado o "col-lg-4". Se fosse divididos 4 colunas utilizaríamos o "col-lg-3" esse valor 3 é o resto do resultado da divisão de 12 colunas exemplo: (12 / 4 = 3).
