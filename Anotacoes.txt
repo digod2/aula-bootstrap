@@ -43,3 +43,13 @@ Realizar o download
 Apos realizar o download fiz um commit e um push para que as mudanças sejam enviada para o repositorio. 
 
 
+
+Bootstrap nada mais é que um conjunto de estilos para classes e components.
+
+
+
+SIte para pegar cor
+
+HTML color codes
+https://htmlcolorcodes.com/
+
