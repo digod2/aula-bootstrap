@@ -52,6 +52,7 @@ SIte para pegar cor
 
 HTML color codes
 https://htmlcolorcodes.com/
+https://colorhunt.co/palettes
 
 
 
